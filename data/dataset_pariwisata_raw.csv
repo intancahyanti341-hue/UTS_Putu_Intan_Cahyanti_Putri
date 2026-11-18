@@ -1,0 +1,121 @@
+id,nama_lokasi,kategori,suhu_rata_rata,tiket_masuk_idr,kabupaten
+1,Destinasi_Kintamani_1,Wisata Religi,17.2,15000,Bangli
+2,Destinasi_Kintamani_2,Pemandangan,17.6,0,Bangli
+3,Destinasi_Kintamani_3,Agrowisata,17.2,0,Bangli
+4,Destinasi_Kintamani_4,Pemandangan,20.8,20000,Bangli
+5,Destinasi_Kintamani_5,Pemandangan,18.9,15000,Bangli
+6,Destinasi_Kintamani_6,Wisata Budaya,20.1,15000,Bangli
+7,Destinasi_Kintamani_7,Agrowisata,22.4,50000,Bangli
+8,Destinasi_Kintamani_8,Agrowisata,18.5,50000,Bangli
+9,Destinasi_Kintamani_9,Agrowisata,19.5,50000,Bangli
+10,Destinasi_Kintamani_10,Pemandangan,21.5,50000,Bangli
+11,Destinasi_Kintamani_11,Wisata Religi,18.4,50000,Bangli
+12,Destinasi_Kintamani_12,Agrowisata,17.5,50000,Bangli
+13,Destinasi_Kintamani_13,Pemandangan,18.7,25000,Bangli
+14,Destinasi_Kintamani_14,Wisata Budaya,18.0,15000,Bangli
+15,Destinasi_Kintamani_15,Wisata Religi,22.6,50000,Bangli
+16,Destinasi_Kintamani_16,Wisata Budaya,21.8,15000,Bangli
+17,Destinasi_Kintamani_17,Wisata Religi,20.8,15000,Bangli
+18,Destinasi_Kintamani_18,Pemandangan,22.2,10000,Bangli
+19,Destinasi_Kintamani_19,Wisata Alam,21.8,25000,Bangli
+20,Destinasi_Kintamani_20,Wisata Religi,18.1,50000,Bangli
+21,Destinasi_Kintamani_21,Wisata Budaya,22.4,0,Bangli
+22,Destinasi_Kintamani_22,Pemandangan,20.2,20000,Bangli
+23,Destinasi_Kintamani_23,Wisata Religi,21.8,0,Bangli
+24,Destinasi_Kintamani_24,Wisata Alam,22.4,25000,Bangli
+25,Destinasi_Kintamani_25,Wisata Alam,18.9,20000,Bangli
+26,Destinasi_Kintamani_26,Agrowisata,17.7,25000,Bangli
+27,Destinasi_Kintamani_27,Agrowisata,18.4,15000,Bangli
+28,Destinasi_Kintamani_28,Wisata Budaya,19.6,20000,Bangli
+29,Destinasi_Kintamani_29,Wisata Religi,21.9,15000,Bangli
+30,Destinasi_Kintamani_30,Wisata Religi,22.2,0,Bangli
+31,Destinasi_Kintamani_31,Agrowisata,17.0,0,Bangli
+32,Destinasi_Kintamani_32,Wisata Religi,20.1,20000,Bangli
+33,Destinasi_Kintamani_33,Wisata Religi,19.5,20000,Bangli
+34,Destinasi_Kintamani_34,Wisata Alam,18.3,50000,Bangli
+35,Destinasi_Kintamani_35,Agrowisata,17.7,25000,Bangli
+36,Destinasi_Kintamani_36,Pemandangan,19.0,50000,Bangli
+37,Destinasi_Kintamani_37,Agrowisata,22.7,25000,Bangli
+38,Destinasi_Kintamani_38,Pemandangan,18.9,50000,Bangli
+39,Destinasi_Kintamani_39,Wisata Alam,20.1,15000,Bangli
+40,Destinasi_Kintamani_40,Wisata Budaya,21.2,20000,Bangli
+41,Destinasi_Kintamani_41,Wisata Religi,19.2,0,Bangli
+42,Destinasi_Kintamani_42,Wisata Alam,22.8,25000,Bangli
+43,Destinasi_Kintamani_43,Wisata Religi,22.8,25000,Bangli
+44,Destinasi_Kintamani_44,Wisata Budaya,18.5,0,Bangli
+45,Destinasi_Kintamani_45,Wisata Budaya,20.0,50000,Bangli
+46,Destinasi_Kintamani_46,Wisata Alam,18.8,25000,Bangli
+47,Destinasi_Kintamani_47,Wisata Budaya,18.7,15000,Bangli
+48,Destinasi_Kintamani_48,Pemandangan,17.2,20000,Bangli
+49,Destinasi_Kintamani_49,Wisata Budaya,20.7,0,Bangli
+50,Destinasi_Kintamani_50,Wisata Religi,20.0,20000,Bangli
+51,Destinasi_Kintamani_51,Wisata Religi,17.3,25000,Bangli
+52,Destinasi_Kintamani_52,Wisata Religi,18.7,25000,Bangli
+53,Destinasi_Kintamani_53,Wisata Religi,22.4,0,Bangli
+54,Destinasi_Kintamani_54,Pemandangan,18.4,15000,Bangli
+55,Destinasi_Kintamani_55,Agrowisata,17.9,10000,Bangli
+56,Destinasi_Kintamani_56,Wisata Alam,19.9,0,Bangli
+57,Destinasi_Kintamani_57,Wisata Religi,22.9,10000,Bangli
+58,Destinasi_Kintamani_58,Wisata Budaya,18.5,50000,Bangli
+59,Destinasi_Kintamani_59,Wisata Religi,21.0,10000,Bangli
+60,Destinasi_Kintamani_60,Wisata Budaya,21.6,15000,Bangli
+61,Destinasi_Kintamani_61,Wisata Budaya,18.4,50000,Bangli
+62,Destinasi_Kintamani_62,Wisata Religi,21.4,10000,Bangli
+63,Destinasi_Kintamani_63,Pemandangan,19.2,50000,Bangli
+64,Destinasi_Kintamani_64,Wisata Budaya,20.8,10000,Bangli
+65,Destinasi_Kintamani_65,Wisata Budaya,20.8,15000,Bangli
+66,Destinasi_Kintamani_66,Wisata Religi,20.2,10000,Bangli
+67,Destinasi_Kintamani_67,Wisata Budaya,17.5,10000,Bangli
+68,Destinasi_Kintamani_68,Wisata Budaya,22.0,10000,Bangli
+69,Destinasi_Kintamani_69,Wisata Religi,18.9,0,Bangli
+70,Destinasi_Kintamani_70,Wisata Religi,18.1,0,Bangli
+71,Destinasi_Kintamani_71,Wisata Alam,17.2,0,Bangli
+72,Destinasi_Kintamani_72,Pemandangan,20.5,15000,Bangli
+73,Destinasi_Kintamani_73,Pemandangan,21.1,50000,Bangli
+74,Destinasi_Kintamani_74,Wisata Budaya,17.1,25000,Bangli
+75,Destinasi_Kintamani_75,Pemandangan,20.1,10000,Bangli
+76,Destinasi_Kintamani_76,Wisata Budaya,18.4,10000,Bangli
+77,Destinasi_Kintamani_77,Wisata Alam,20.9,15000,Bangli
+78,Destinasi_Kintamani_78,Wisata Religi,18.0,10000,Bangli
+79,Destinasi_Kintamani_79,Wisata Religi,21.1,0,Bangli
+80,Destinasi_Kintamani_80,Wisata Religi,19.3,25000,Bangli
+81,Destinasi_Kintamani_81,Pemandangan,22.6,20000,Bangli
+82,Destinasi_Kintamani_82,Wisata Alam,17.8,10000,Bangli
+83,Destinasi_Kintamani_83,Pemandangan,19.0,0,Bangli
+84,Destinasi_Kintamani_84,Pemandangan,17.7,20000,Bangli
+85,Destinasi_Kintamani_85,Wisata Alam,22.5,25000,Bangli
+86,Destinasi_Kintamani_86,Wisata Alam,22.3,20000,Bangli
+87,Destinasi_Kintamani_87,Wisata Alam,18.5,0,Bangli
+88,Destinasi_Kintamani_88,Wisata Alam,21.0,50000,Bangli
+89,Destinasi_Kintamani_89,Wisata Religi,21.9,50000,Bangli
+90,Destinasi_Kintamani_90,Agrowisata,20.3,20000,Bangli
+91,Destinasi_Kintamani_91,Agrowisata,20.2,15000,Bangli
+92,Destinasi_Kintamani_92,Wisata Alam,18.5,20000,Bangli
+93,Destinasi_Kintamani_93,Agrowisata,17.6,10000,Bangli
+94,Destinasi_Kintamani_94,Agrowisata,22.4,10000,Bangli
+95,Destinasi_Kintamani_95,Wisata Alam,22.4,50000,Bangli
+96,Destinasi_Kintamani_96,Agrowisata,20.8,15000,Bangli
+97,Destinasi_Kintamani_97,Pemandangan,19.0,0,Bangli
+98,Destinasi_Kintamani_98,Wisata Budaya,19.1,10000,Bangli
+99,Destinasi_Kintamani_99,Wisata Budaya,21.4,50000,Bangli
+100,Destinasi_Kintamani_100,Wisata Alam,22.4,25000,Bangli
+101,Destinasi_Kintamani_101,Wisata Religi,22.3,50000,Bangli
+102,Destinasi_Kintamani_102,Wisata Alam,21.7,10000,Bangli
+103,Destinasi_Kintamani_103,Wisata Religi,20.9,10000,Bangli
+104,Destinasi_Kintamani_104,Wisata Budaya,17.5,50000,Bangli
+105,Destinasi_Kintamani_105,Wisata Alam,18.0,0,Bangli
+106,Destinasi_Kintamani_106,Pemandangan,22.4,20000,Bangli
+107,Destinasi_Kintamani_107,Agrowisata,20.6,10000,Bangli
+108,Destinasi_Kintamani_108,Wisata Religi,17.1,50000,Bangli
+109,Destinasi_Kintamani_109,Agrowisata,17.6,50000,Bangli
+110,Destinasi_Kintamani_110,Agrowisata,21.0,15000,Bangli
+111,Destinasi_Kintamani_111,Wisata Alam,17.0,20000,Bangli
+112,Destinasi_Kintamani_112,Agrowisata,18.0,25000,Bangli
+113,Destinasi_Kintamani_113,Pemandangan,20.3,0,Bangli
+114,Destinasi_Kintamani_114,Agrowisata,21.2,25000,Bangli
+115,Destinasi_Kintamani_115,Wisata Alam,20.9,20000,Bangli
+116,Destinasi_Kintamani_116,Pemandangan,18.3,20000,Bangli
+117,Destinasi_Kintamani_117,Wisata Budaya,21.3,20000,Bangli
+118,Destinasi_Kintamani_118,Agrowisata,18.4,25000,Bangli
+119,Destinasi_Kintamani_119,Wisata Alam,19.0,20000,Bangli
+120,Destinasi_Kintamani_120,Wisata Budaya,21.5,50000,Bangli
