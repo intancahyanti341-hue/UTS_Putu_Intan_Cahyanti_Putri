@@ -1,1 +1,27 @@
+UTS Data Acquisition & Management
+Nama: Putu Intan Cahyanti Putri
 
+NIM: 2501010046
+
+Program Studi: Informatika dan Teknologi (INSTIKI)
+
+Topik/Wilayah: Pariwisata dan Geografi Kintamani, Bali
+
+📌 Deskripsi Proyek
+Repository ini dibuat untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Data Acquisition & Management. Proyek ini mendemonstrasikan seluruh rangkaian proses perolehan data mentah (raw data) dari berbagai sumber resmi yang diizinkan (dataset terbuka, API publik, dan web scraping), serta melakukan pembersihan, validasi integritas data, dan penggabungan (merging) secara terstruktur.
+📂 Struktur Direktori Repository
+Plaintext
+UTS_Putu_Intan_Cahyanti_Putri/
+│
+├── data/
+│   ├── raw/
+│   │   ├── dataset_pariwisata_raw.csv   # Berkas dataset terbuka (>100 baris)
+│   │   ├── api_kintamani_raw.json      # Berkas mentah dari API cuaca Open-Meteo
+│   │   └── scraping_kintamani_raw.csv  # Berkas mentah hasil web scraping Wikipedia
+│   └── hasil_penggabungan_kintamani.csv # Berkas hasil merge dan validasi akhir
+│
+├── notebook/
+│   └── UTS_Putu_Intan_Cahyanti_Putri_2501010046.ipynb # Notebook utama analisis & kode
+│
+└── README.md
+📊 Catatan Provenance (Asal-Usul Data)Berikut adalah ringkasan informasi provenance dari seluruh sumber data mentah yang digunakan dalam proyek ini:NoMetode AkuisisiNama Sumber / PortalURL ResmiTanggal AksesLisensi1(a) Berkas Dataset TerbukaOpen Data Wilayah Administratif[https://raw.githubusercontent.com/moix/indonesia-region/master/data/regencies.csv](https://raw.githubusercontent.com/moix/indonesia-region/master/data/regencies.csv)18 November 2026Public Domain / Open Data2(b) API PublikOpen-Meteo Historical Weather API[https://archive-api.open-meteo.com/v1/archive](https://archive-api.open-meteo.com/v1/archive)18 November 2026Creative Commons (CC-BY 4.0)3(c) Web ScrapingWikipedia Indonesia (Kintamani, Bangli)[https://id.wikipedia.org/wiki/Kintamani,_Bangli](https://id.wikipedia.org/wiki/Kintamani,_Bangli)18 November 2026CC BY-SA 4.0⚙️ Penjelasan Tahapan Script / KodePerolehan Dataset Terbuka (Soal 1): Mengambil dan memuat dataset riil wilayah dengan jumlah baris lebih dari 100 baris, lalu menyimpannya ke data/raw/dataset_pariwisata_raw.csv.Pengambilan Data API (Soal 2): Melakukan permintaan HTTP (HTTP Request) ke API cuaca historis Open-Meteo untuk wilayah Kintamani dan mengekspor hasilnya ke dalam format .json (data/raw/api_kintamani_raw.json).Web Scraping (Soal 3): Mengekstraksi tabel data geografi secara otomatis dari halaman Wikipedia yang diizinkan menggunakan pustaka Pandas/BeautifulSoup, lalu menyimpannya ke data/raw/scraping_kintamani_raw.csv.Penggabungan & Validasi Data (Soal 4 & 5): Menggabungkan seluruh data mentah menggunakan pustaka Pandas dengan parameter validasi integritas struktur, dan menyimpannya ke dalam file akhir data/hasil_penggabungan_kintamani.csv.
