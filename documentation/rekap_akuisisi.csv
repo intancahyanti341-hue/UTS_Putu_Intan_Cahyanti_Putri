@@ -1,0 +1,8 @@
+sumber,metode,baris,kolom
+BPS-01 Paspor,Unduh CSV,248,14
+BPS-02 Pengeluaran,Unduh CSV,37,2
+BPS-03 Pintu Masuk,Unduh CSV,35,14
+API-01 Open-Meteo,API,3650,11
+WEB-01 Direktori Pariwisata,Web Scraping,28,6
+Hasil Merge A,Integrasi,120,17
+Hasil Merge B,Integrasi,35,18

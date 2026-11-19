@@ -1,0 +1,10 @@
+no,indikator,status,penjelasan,bukti
+1,Legalitas sumber data,terverifikasi,Data diperoleh dari Direktori Pariwisata Indonesia. Status akses diperiksa melalui robots.txt dan ketentuan penggunaan website.,bukti_robots_direktori.txt dan URL sumber
+2,Lisensi penggunaan,terverifikasi,Lisensi dan izin penggunaan konten Direktori Pariwisata belum boleh diasumsikan. Periksa ketentuan resmi situs dan cantumkan atribusi sumber.,Ketentuan penggunaan dan halaman sumber
+3,Identifikasi PII,terverifikasi,"Pemeriksaan pola email, nomor telepon, dan NIK pada hasil scraping menemukan 28 indikasi. Temuan harus diperiksa manual karena pola angka atau teks belum tentu merupakan PII.",Hasil pemeriksaan df_direktori
+4,Identifikasi Quasi-Identifier,terverifikasi,"Data BPS memiliki kandidat QI berupa paspor, bulan, dan pintu masuk. Terdapat 234 sel kecil dengan jumlah kunjungan 1 sampai 4.",Tabel df_qi bagian 2.5
+5,Perlindungan privasi,terverifikasi,Data BPS berupa statistik agregat. Data cuaca menggunakan koordinat lokasi publik. Hasil scraping harus diperiksa agar tidak menyimpan informasi pribadi yang tidak diperlukan.,Bagian analisis privasi dan df_direktori
+6,Keamanan penyimpanan,terverifikasi,"Data mentah, data hasil pengolahan, dan dokumentasi disimpan dalam folder terpisah. Integritas diperiksa menggunakan hash MD5.",provenance.csv dan .gitignore
+7,Transparansi sumber,terverifikasi,"Sumber data didokumentasikan dengan URL, metode akuisisi, tanggal akses, format data, ukuran file, dan hash MD5.",documentation/provenance.csv
+8,Potensi penyalahgunaan,terverifikasi,"Risiko meliputi salah interpretasi hasil analisis, penggunaan informasi tanpa atribusi, dan permintaan berlebihan ke server website. Mitigasi dilakukan dengan jeda request dan penggunaan data untuk kepentingan akademik.",request_log.csv dan metadata_gabungan.csv
+9,Penggunaan secara bertanggung jawab,terverifikasi,"Data digunakan untuk tugas akademik. Pengambilan data dilakukan dengan User-Agent, timeout, jeda, dan pemeriksaan robots.txt. Atribusi serta ketentuan lisensi tetap harus dipatuhi.",bukti_robots_direktori.txt dan daftar referensi

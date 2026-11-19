@@ -1,0 +1,6 @@
+kode,sumber,url,status,tanggal_akses,kata_kunci_ditemukan,cuplikan
+BPS,BPS,https://www.bps.go.id/assets/term-of-use,dilengkapi,2026-11-19 15:34:06 WIB,,HTTPError: 403 Client Error: Forbidden for url: https://www.bps.go.id/assets/term-of-use
+OPENMETEO,Open-Meteo,https://open-meteo.com/en/license,200,2026-11-19 15:34:08 WIB,,
+OPENMETEO_TERMS,Open-Meteo,https://open-meteo.com/en/terms,200,2026-11-19 15:34:11 WIB,"copyright, creative commons, non-commercial","these Terms of Use, whether arising from
+			contract, tort, or any other cause. Non-Commercial Use By using the Free API for non-commercial use you agree to following terms: Less than 10'000 API calls per day, 5'00"
+WIKIPEDIA,Wikipedia,https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use,200,2026-11-19 15:34:13 WIB,"attribution, cc by-sa, copyright, creative commons, license",ctivities 6 5. Password Security 7 6. Trademarks 8 7. Licensing of Content 9 8. Copyright Compliance 10 9. Third-party Websites and Resources 11 10. Management of Websites 12 11. Resolutions and Project Polici

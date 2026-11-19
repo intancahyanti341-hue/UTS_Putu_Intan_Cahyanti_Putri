@@ -1,0 +1,4 @@
+URL: https://open-meteo.com/en/license
+Tanggal akses: 2026-11-19 15:34:08 WIB
+Status: 200
+
