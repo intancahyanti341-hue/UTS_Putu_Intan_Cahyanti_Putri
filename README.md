@@ -8,8 +8,8 @@ Dosen: Dr. I Gede Totok Suryawan, S.Kom., M.T.
 |---|---|
 | **Nama** | Putu Intan Cahyanti Putri |
 | **NIM** | 2501010046 |
-| **Notebook pipeline (Colab)** | [ISI: tautan Colab] |
-| **Repositori** | https://github.com/[ISI-USERNAME]/UTS_Putu_Intan_Cahyanti_Putri |
+| **Notebook pipeline (Colab)** |https://colab.research.google.com/drive/1yugo7k8jEzIkQtDuuAFZPKUs0xC_8-Yz#scrollTo=Tr_LzUDlzKbe |
+| **Repositori** | https://github.com/intancahyanti341-hue/UTS_Putu_Intan_Cahyanti_Putri.git |
 
 ---
 
